@@ -1,0 +1,2 @@
+# NetCoreAPIMSSQLNG17
+ 
